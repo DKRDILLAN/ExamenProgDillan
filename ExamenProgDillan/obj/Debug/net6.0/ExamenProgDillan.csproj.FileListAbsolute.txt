@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\obj\Debug\net6.0\ExamenProgDillan.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\obj\Debug\net6.0\ExamenProgDillan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\obj\Debug\net6.0\ExamenProgDillan.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\obj\Debug\net6.0\ExamenProgDillan.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\obj\Debug\net6.0\ExamenProgDillan.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\bin\Debug\net6.0\ExamenProgDillan.exe
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\bin\Debug\net6.0\ExamenProgDillan.deps.json
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\bin\Debug\net6.0\ExamenProgDillan.runtimeconfig.json
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\bin\Debug\net6.0\ExamenProgDillan.dll
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\bin\Debug\net6.0\ExamenProgDillan.pdb
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\obj\Debug\net6.0\ExamenProgDillan.dll
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\obj\Debug\net6.0\refint\ExamenProgDillan.dll
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\obj\Debug\net6.0\ExamenProgDillan.pdb
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\obj\Debug\net6.0\ExamenProgDillan.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ExamenProgDillan\ExamenProgDillan\obj\Debug\net6.0\ref\ExamenProgDillan.dll
